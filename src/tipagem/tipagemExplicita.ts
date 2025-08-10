@@ -9,4 +9,9 @@ address = {
     uf: "SP"
 }
 
-console.log(myName)
+// Any
+
+let valor: any = "Texto inicial";
+valor = 123;         
+valor = true;        
+valor = { a: 1 };

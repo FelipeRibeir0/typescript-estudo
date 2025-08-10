@@ -14,3 +14,10 @@ names.push(true);
 
 console.log(names)
 console.log(person)
+
+// Any
+
+let dado;
+dado = "Felipe"; 
+dado = 42;        
+dado = false;     
